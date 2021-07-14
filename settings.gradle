@@ -1,0 +1,2 @@
+rootProject.name = "Ads Hands-on"
+include ':app'
